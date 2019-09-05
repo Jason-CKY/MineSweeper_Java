@@ -12,27 +12,27 @@ The User Interface is programmed using Java toolkit.
 This game has 2 distinct themes to it: namely a Dark theme and a Horror theme, inspired by the Aliens movie.
 
 ### Win/Lose Condition
+#### Winning condition is triggered when all non-mine tiles are pressed, or when all mines are correctly flagged.
 ![Alt text](./res/screenshots/Dark_Easy_Win.JPG)
-Winning condition is triggered when all non-mine tiles are pressed, or when all mines are correctly flagged.
 
+#### Lose condition is triggered when the player clicks on a tile with a mine. 
 ![Alt text](./res/screenshots/Horror_Easy_Lose.JPG)
-Lose condition is triggered when the player clicks on a tile with a mine. 
+
 
 ### Difficulty levels
 There are 3 different difficulties level to the game: Easy, Intermediate, and Difficult. The difficulty 
 levels are set according to the number of cells and mines in the game.
 
+#### Easy Mode: 10 mines in 10x10 tile map
 ![Alt text](./res/screenshots/Dark_Easy.JPG) 
-For easy mode, there are 10 mines in a 10 x 10 tile map.
 
+#### Intermediate Mode: 40 mines in 16x16 tile map
 ![Alt text](./res/screenshots/Dark_Intermediate.JPG) 
-For intermediate mode, there are 40 mines in a 16 x 16 tile map.
 
+#### Hard Mode: 99 mines in 16x30 tile map
 ![Alt text](./res/screenshots/Dark_Hard.JPG)
-For hard mode, there are 99 mines in a 16 x 30 tile map. 
 
-
-## Image gallery
+# Image gallery
 ![Alt text](./res/screenshots/Dark_Easy.JPG) 
 ![Alt text](./res/screenshots/Dark_Intermediate.JPG) 
 ![Alt text](./res/screenshots/Dark_Hard.JPG) 
